@@ -13,25 +13,98 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kwok/运维-统计-技术支持/工具/git/git基本操作/提交文件到github.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kwok/架构设计/架构设计.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="476">
-                <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/Redis.assets/2019050514590789.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/kwok/框架/框架.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/architect-awesome/README.md">
+        <entry file="file://$PROJECT_DIR$/kwok/消息队列/消息队列.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kwok/算法/算法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kwok/缓存/缓存.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kwok/设计思想-开发模式/设计思想.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kwok/集合框架/集合框架.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kwok/面经/面经.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kwok/项目管理/项目管理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kwok/JAVA-WEB/java-web.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -102,7 +175,161 @@
               <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_note" type="462c0819:PsiDirectoryNode" />
               <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA-WEB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA基础" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA-IO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA基础" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVABase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA基础" type="462c0819:PsiDirectoryNode" />
+              <item name="常用算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA基础" type="462c0819:PsiDirectoryNode" />
+              <item name="操作系统" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="Linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="中间件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="分布式设计" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="前端" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="大数据" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="常用工具集" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="并发和多线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索引擎" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="数据库" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="架构演进之路" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="架构设计" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="框架" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="消息队列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="缓存" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
               <item name="设计思想-开发模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="集合框架" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="面经" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_note" type="462c0819:PsiDirectoryNode" />
+              <item name="kwok" type="462c0819:PsiDirectoryNode" />
+              <item name="项目管理" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,18 +369,17 @@
       <option name="presentableId" value="Default" />
       <updated>1604221537175</updated>
       <workItem from="1604221538392" duration="149000" />
-      <workItem from="1604221751452" duration="235000" />
+      <workItem from="1604221751452" duration="921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="384000" />
+    <option name="totallyTimeSpent" value="1070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -170,7 +396,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36127168" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -209,9 +435,217 @@
     <entry file="file://$PROJECT_DIR$/kwok/运维-统计-技术支持/工具/git/git基本操作/提交文件到github.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="476">
-            <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <first_editor relative-caret-position="123">
+            <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/运维-统计-技术支持/工具/工具.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/JAVA基础/JAVA-IO/java-io.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/JAVA基础/JAVABase/java-base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/JAVA基础/java基础.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/JVM/jvm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/Linux/linux.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/python/python.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/中间件/中间件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/分布式设计/分布式设计.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/前端/前端.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/大数据/大数据.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/常用工具集/常用工具集.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/并发和多线程/并发和多线程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/搜索引擎/搜索引擎.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/数据库/数据库.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/架构演进之路/架构演进.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/架构设计/架构设计.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/框架/框架.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/消息队列/消息队列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/算法/算法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/缓存/缓存.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/设计思想-开发模式/设计思想.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/集合框架/集合框架.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/面经/面经.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/项目管理/项目管理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kwok/JAVA-WEB/java-web.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
