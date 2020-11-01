@@ -1,0 +1,1 @@
+###[hashmap](https://www.processon.com/mindmap/5f9e8940f346fb11c3cd77e1)

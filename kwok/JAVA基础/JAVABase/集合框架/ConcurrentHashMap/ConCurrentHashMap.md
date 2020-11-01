@@ -1,0 +1,1 @@
+####参考[ConcurrentHashMap](https://www.processon.com/mindmap/5f9e8a446376891d32026017)
