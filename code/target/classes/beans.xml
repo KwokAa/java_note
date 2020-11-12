@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+<!--    包扫描 ，只要在base-package路径下，所有标注@Controller,@Service,@Repository,@Component 中任何一个都会被自动加入到spring容器中-->
+<!--    use-default-filters 默认true 扫描路径下所有beans，如果需要只包含的话要设置为false-->
+    <context:component-scan base-package="spring" use-default-filters="false"></context:component-scan>
+
+
+<!--    导入配置文件，可以从配置文件中通过 ${} 读取-->
+    <context:property-placeholder location="classpath:person.properties"/>
+
+<!--    注入bean-->
+    <bean id="person" class="spring.model.Person" init-method="" destroy-method="">
+        <property name="age" value="18"></property>
+        <property name="name" value="zhangsan"></property>
+        <property name="nickName" value="${person.nickName}"></property>
+    </bean>
+
+</beans>
